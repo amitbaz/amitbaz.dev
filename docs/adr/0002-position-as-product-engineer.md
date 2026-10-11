@@ -16,3 +16,5 @@ Amit's career is in frontend engineering and the next roles he wants carry decis
 
 - "Senior frontend" must still appear near the top for recruiter keyword search.
 - PostHog/Ashby-style hirers expect full-stack; the site should make system-design and backend-adjacent work visible to pre-empt that filter.
+- Of the personal sites surveyed that self-label "product engineer", 5 of 6 read as template; the crafted tier uses "design engineer" or a plain sentence about what they make (`docs/research/portfolio-references.md` §4). The label carries a template association that the site's Craft must visibly contradict.
+- Only 2 of 25 surveyed sites document their own build. The Process page and Worked Example are a genuine differentiator, not table stakes.

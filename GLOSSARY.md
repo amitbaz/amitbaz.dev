@@ -29,8 +29,8 @@ The short, stated account of how Amit thinks and decides. The claims half of the
 _Avoid_: Philosophy, values, manifesto
 
 **Decision Story**:
-A short anonymised account from past work — situation, the call Amit made, what happened — with company and product specifics removed. The only form past employer work takes on the site beyond role summaries.
-_Avoid_: Case study, war story, testimonial
+A short account from past work — situation, the call Amit made, what happened. It may name the company and use any fact already on the public CV; internal specifics (people, customers, data, code, unreleased plans) stay out. The only form past employer work takes on the site beyond role summaries.
+_Avoid_: Case study, war story, testimonial, anonymised story
 
 **Agentic Workflow**:
 How Amit works with AI coding agents: what he directs, what he delegates, what he never delegates, and the tooling he uses. The "how I work" part of the Process; the Worked Example is its proof.
